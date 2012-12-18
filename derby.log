@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Fri Nov 30 17:21:22 CET 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-013b-521f-5204-00000386eed8 
+on database directory /Users/wanjie/Documents/workspace/todooz/target/taskdb  with class loader WebappClassLoader
+  context: 
+  delegate: false
+  repositories:
+----------> Parent Classloader:
+ClassRealm[plugin>org.codehaus.mojo:tomcat-maven-plugin:1.1, parent: sun.misc.Launcher$AppClassLoader@1feed786]
+ 
+Loaded from file:/Users/wanjie/.m2/repository/org/apache/derby/derby/10.8.1.2/derby-10.8.1.2.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_37-b06-434-11M3909
+user.dir=/Users/wanjie/Documents/workspace/todooz
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
